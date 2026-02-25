@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
 /* Anti-copy protection: disable text selection and copying globally */
 body, html, #root {
   user-select: none;
@@ -5,7 +6,6 @@ body, html, #root {
   -ms-user-select: none;
   -moz-user-select: none;
 }
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
 
 @tailwind base;
 @tailwind components;
